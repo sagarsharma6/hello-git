@@ -1,0 +1,12 @@
+Git commands:		   -   Fnctions:
+
+git init  		   -   Create a new local repository
+git clone 		   -   Check out a repository
+git add 		   -   Add one or more files to staging
+git commit -m "message"    -   Commit changes to head (but not yet to the remote repository)
+git push origin master 	   -   Send changes to the master branch of your remote repository
+git status		   -   List the files you've changed and those you still need to add or commit:
+
+
+
+
